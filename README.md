@@ -9,8 +9,8 @@ wrote this in 30 min honestly pretty helpful idk why i never wrote this
 git clone https://github.com/seraph27/folder_sort.git
 cd folder_sort
 python3 main.py --dir ~/Downloads
-`--dir` is optional (defaults to `~/Downloads`).
 ```
+`--dir` is optional (defaults to `~/Downloads`).
 
 ## Auto-run (WSL)
 

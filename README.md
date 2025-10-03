@@ -6,6 +6,7 @@ wrote this in 30 min honestly pretty helpful idk why i never wrote this
 ## Usage
 
 git clone https://github.com/seraph27/folder_sort.git
+
 cd folder_sort
 python3 main.py --dir ~/Downloads
 
